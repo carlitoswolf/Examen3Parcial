@@ -1,0 +1,17 @@
+{
+    "name": "Andres Iniesta",
+    "position": "Centrocampista",
+    "nationality": "Spanish",
+    "date_of_birth": "May 11, 1984",
+    "clubs": [
+        {
+            "name": "FC BARCELONA",
+            "period": "2002-2018"
+        },
+        {
+            "name": "Vissel kobe",
+            "period": "2018-2023"
+        }
+    ],
+    "honors": "        \"FIFA World Cup Winner (2010)\",        \"UEFA European Championship Winner (2008, 2012)\",        \"UEFA Champions league Winner (2005-2006, 2008-2009, 2011-2012, 2014-2015)\""
+}
